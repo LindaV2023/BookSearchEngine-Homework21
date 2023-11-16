@@ -54,7 +54,17 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Useage
 
+When the file opens in Heroku you cann choose different options - create an account, search for a book, save information on a book, etc.
+
 ## Files and Images
+
+![herok - warm-mesa-08305 -](image-4.png)
+
+![heroku](image-3.png)
+
+![Heroku file made](image.png)
+![heroku build successful](image-1.png)
+![heroku logs](image-2.png)
 
 ## Deployment
 
