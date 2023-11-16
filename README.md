@@ -61,4 +61,5 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 Deploy the appliction to Heroku
 
 ## Credit 
-I used Github Co-Pilot to work on this homework assignment.
+I used class assignments, the mini-project and homework to complete this assignment.
+I also used Github Co-Pilot to work on this homework assignment.
